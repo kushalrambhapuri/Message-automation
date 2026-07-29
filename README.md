@@ -1,4 +1,4 @@
-# WhatsApp Automation Bot
+# Message Automation Bot
 Tired of typing out messages? Now you can automate your messages with Python!
 
 
