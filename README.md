@@ -1,6 +1,6 @@
 # WhatsApp Automation Bot
-Tired of typing out WhatsApp messages? Now you can automate your messages with just 2 lines of Python code!
-I created this bot using PyCharm, a popular Python code editor. Follow the steps below to set up your WhatsApp automation:
+Tired of typing out messages? Now you can automate your messages with Python!
+
 
 Prerequisites
 Python Installed: Ensure Python is installed on your system.
